@@ -1,0 +1,16 @@
+# Teaching Assistants {.unnumbered}
+
+This section of the handbook is aimed toward teaching assistants (TAs). As a TA for the course you have several responsibilities:
+
+- Attending class and helping out;
+- Responding to students' questions;
+- Holding office hours;
+- Grading student work; and
+- Meeting regularly with the instructor or instructional team.
+
+Each of these responsibilities is described in more detail in the subsequent sections of the handbook. 
+
+::: {.callout-important icon="false"}
+Each TA position is a 25% position. This means that you should be spending about 10 hours per week (per position) on these responsibilities. It is important to note, however, that this ebbs and flows throughout the semester. Some weeks will be very sparse ($<10$ hours), and others will be more demanding ($>10$ hours). If you find yourself consistently putting in more than 10 hours, please let Andy or your instructor know so that we can figure out how to help you.
+:::
+

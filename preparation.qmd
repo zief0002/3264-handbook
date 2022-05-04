@@ -1,0 +1,49 @@
+# Preparing to TA {.unnumbered}
+
+The most important thing you can do to prepare for TAing the course, is to familiarize yourself with the content, materials, and software used in the class.
+
+<br />
+
+## Software: TinkerPlots 3
+
+In EPsy 3264, students learn the *TinkerPlots 3* software. Most of their initial questions in the class are about using this software, so you will need to be familiar with using it early on. You can download a copy of TinkerPots 3 at: 
+
+<p style="margin-left:auto;margin-right:auto">
+<https://www.tinkerplots.com/get>
+</p>
+
+After you install it, and initially open it, you will need to fill in a registration number. Email Andy, and he will send you a registration number to use for the semester you are TAing. 
+
+::: {.callout-tip}
+The best way to become familiar with how to use TinkerPlots is to work through the same course materials and assignments that the students work through.
+:::
+
+<br />
+
+## Course Materials
+
+There are several course materials that you will also need to be familiar with, including:
+
+- The Lab Manual (PDF)
+- TinkerPlots data sets
+- Course readings/textbook
+
+
+All of the course materials can be found at: <https://zief0002.github.io/statistical-thinking/>
+
+The **Lab Manual** is what students work on in class every day. (This would be good to work through in order to familiarize yourself not only with the content and TinkerPlots, but also to help anticipate where students might have questions in class.) The **data sets** are used in class and on the take-home exams that students complete. Lastly, the **course readings/textbook** are embedded in the website itself. This mainly consists of the out-of-class reading we ask students to complete.
+
+<br />
+
+
+## Google Drive for Instructional Team
+
+You will also need access to the instructional team's Google Drive. You should email Andy to get access to the this. This Google Drive includes all of the group quizzes, take-home exams, grading rubrics, and additional resources and materials useful for the course. 
+
+
+
+
+::: {.callout-important}
+The Google Drive is a *Shared Drive*, which means that everone with access is an editor, and moreover that *anything that you move or delete gets moved or deleted for everyone*. It is also important that if you add material to the drive, it is placed in the appropriate directory and follows the naming conventions used. This will ensure that the drive is kept tidy and organized.
+:::
+

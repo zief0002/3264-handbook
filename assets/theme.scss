@@ -1,0 +1,41 @@
+/*-- scss:defaults --*/
+$headings-font-weight:  700 !default;
+$body-color:            #273043;
+$font-size-root:        12pt;
+
+$brand-primary:         darken(#428bca, 6.5%) !default; // #337ab7
+$brand-success:         #5cb85c !default;
+$brand-info:            #5bc0de !default;
+$brand-warning:         #f0ad4e !default;
+$brand-danger:          #d9534f !default;
+
+$link-color:            $brand-primary !default;
+$link-hover-color:      darken($link-color, 15%) !default;
+$link-hover-decoration: underline !default;
+
+
+
+/*-- scss:rules --*/
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Cinzel', sans-serif;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: #566a94;
+}
+
+
+p {
+  font-family: 'Fauna One', serif;
+  line-height: 1.5em;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+.figure-caption{
+  font-size: 11pt;
+  font-style: italic;
+  line-height: 1.3em;
+  margin-top: 0;
+  margin-bottom: 1.5em;
+}
+

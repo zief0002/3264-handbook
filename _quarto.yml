@@ -1,0 +1,26 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "EPsy 3264 Instructor and TA Handbook"
+  author: "Andrew Zieffler"
+  date: "May 02, 2022"
+  chapters:
+    - index.qmd
+    - part: ta-responsibilities.qmd
+      chapters:
+        - preparation.qmd
+        - responsibility-attending-class.qmd
+    - references.qmd
+
+bibliography: "assets/references.bib"
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - assets/theme.scss
+
+
+
