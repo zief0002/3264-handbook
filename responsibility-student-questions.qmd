@@ -1,0 +1,69 @@
+# Responding to Student Questions {.unnumbered}
+
+Another of your responsibilities is to respond to student questions. In general, this takes place in class, during office hours, or via email. When students email questions, it is important that you respond in a timely manner; weekdays within 24 hours. (If students email on a weekend you need to respond no later than Monday morning.)
+
+There are several things that students may ask you about. Asking questions is part of the learning process, and if students are stuck on an individual exam or concerned about their course performance, we encourage them to reach out. However, since their work on the individual exams is one way we evaluate student performance, there is a delicate balance to how you as a TA can respond to their questions.
+
+Below are a few examples of the types of questions or statements that students have had for the teaching team that are difficult for the teaching team to address.
+
+### Requests for "Pre-Grading"
+
+Here are examples of these types of requests:
+
+- "Could you look over my assignment and let me know if I did anything wrong?"
+- "Is my answer correct?"
+- "Did I write enough for this answer?"
+
+You should *not* directly answer these requests. You can tell them that we do not do any pre-grading/looking at responses. If you think that the student is looking for assurance, you can respond by saying: 
+
+- "If you completed the assignment without any trouble, then be confident in your work and simply submit the assignment! `r emo::ji("smile")`"
+
+If you think they have legitimate questions, try to redirect the student to ask something more specific. For example, you might say
+
+- "If you’re unsure about something specific, then ask about that specific thing! For example, do we need to include the plot for Question 2? Or, Do we need to define the *p*-value when using it as evidence for answering the research question?"
+
+If the student is having trouble knowing what to include in their answer, remind them to look back at what the question is looking for.
+
+
+### Completely Open-Ended Requests
+
+Here are examples of these types of requests:
+
+- "I looked at the homework, but I do not know what to do. Can you give me a hint?"
+- "I did Step 1, what do I do next?"
+
+Similar to requests for "pre-grading", you should *not* directly answer these requests. Instead, get the student to identify something specific to ask about. Maybe ask,
+
+- "What specifically are you unsure about?"
+
+Getting the student to ask a more specific question may both (1) help them better understand the assignment, and (2) actually help them answer their own question! 
+
+Since the individual exams typically reflect the content covered in the in-class activities, the most helpful thing to do is to refer students back to the pertinent activity. 
+
+
+### Other Requests that are Difficult to Respond To
+
+Here are examples of these types of requests:
+
+- "I really need an 'A' in this class."
+- "I'm so close to a higher grade. Can you look over my past assignments and find a way to give me some points back?"
+
+If students make these types of statements, you can respond with empathy, but should remind them that the implication of these types of requests is for the teaching team to do something unethical, such as grade things differently for different students.
+
+Instead you can ask the student about ways to improve their future performance in the course. For example,
+
+- "I understand you really want to do well in this class. What else can you do in the future to better achieve that goal?"
+
+While we won't change a score or grade for a student, we can help them to forescast their grade based on a number of scenarios, For example,
+
+- Here are the scores you would need on the remaining coursework to earn an 'A' in the course?
+
+The exception to changing scores or grades is if the student thinks their grade or scores were computed incorrectly, we will double-check!
+
+::: {.callout-important}
+In general, you can respond to student questions about clarification or refer them to course resources, activities, etc. But, you should not help them complete their exams. You should also not re-grade or re-score anything. Instead, refer the student to the instructor who will make a decision about that.
+:::
+
+
+
+

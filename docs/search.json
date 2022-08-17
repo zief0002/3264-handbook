@@ -7,39 +7,11 @@
     "text": "Welcome to the EPsy 3264 instructional team! This handbook contains information for people working with the course as TAs or instructors. It includes content related to expectations, instructional norms, and other useful tidbits that we have garnered across many semesters of teaching the course.\nThis handbook is a work in progress. While the handbook includes some of the information you will need to TA or teach the course, it probably doesn’t include all of it. I will add to this as I have time. The content is also being drawn from the collective memory and experiences of several cohorts of TAs and instructors—thus the knowledge contained herein will necessarily be imperfect.\nBecause of that it is important that you ask questions when things are unclear. This will also help me clarify the information in the handbook for future cohorts!"
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  Introduction",
-    "section": "",
-    "text": "See Knuth (1984) for additional discussion of literate programming.\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
-  },
-  {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
-    "section": "",
-    "text": "In summary, this book has no content whatsoever."
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
-  },
-  {
     "objectID": "ta-responsibilities.html",
     "href": "ta-responsibilities.html",
     "title": "Teaching Assistants",
     "section": "",
     "text": "Attending class and helping out;\nResponding to students’ questions;\nHolding office hours;\nGrading student work; and\nMeeting regularly with the instructor or instructional team.\n\nEach of these responsibilities is described in more detail in the subsequent sections of the handbook.\n\n\n\n\n\n\nImportant\n\n\n\nEach TA position is a 25% position. This means that you should be spending about 10 hours per week (per position) on these responsibilities. It is important to note, however, that this ebbs and flows throughout the semester. Some weeks will be very sparse (\\(<10\\) hours), and others will be more demanding (\\(>10\\) hours). If you find yourself consistently putting in more than 10 hours, please let Andy or your instructor know so that we can figure out how to help you."
-  },
-  {
-    "objectID": "attending-class.html",
-    "href": "attending-class.html",
-    "title": "1  Summary",
-    "section": "",
-    "text": "In summary, this book has no content whatsoever."
   },
   {
     "objectID": "preparation.html",
@@ -75,5 +47,33 @@
     "title": "Attending Class",
     "section": "",
     "text": "To do this effectively, you will need to prepare for each class by being familiar with the course reading and the activity in the Lab Manual. (If this is your first time TAing the course, I highly recommend that you actually do the activity in advance of class.)"
+  },
+  {
+    "objectID": "responsibility-student-questions.html",
+    "href": "responsibility-student-questions.html",
+    "title": "Responding to Student Questions",
+    "section": "",
+    "text": "There are several things that students may ask you about. Asking questions is part of the learning process, and if students are stuck on an individual exam or concerned about their course performance, we encourage them to reach out. However, since their work on the individual exams is one way we evaluate student performance, there is a delicate balance to how you as a TA can respond to their questions.\nBelow are a few examples of the types of questions or statements that students have had for the teaching team that are difficult for the teaching team to address.\n\nRequests for “Pre-Grading”\nHere are examples of these types of requests:\n\n“Could you look over my assignment and let me know if I did anything wrong?”\n“Is my answer correct?”\n“Did I write enough for this answer?”\n\nYou should not directly answer these requests. You can tell them that we do not do any pre-grading/looking at responses. If you think that the student is looking for assurance, you can respond by saying:\n\n“If you completed the assignment without any trouble, then be confident in your work and simply submit the assignment! 😄”\n\nIf you think they have legitimate questions, try to redirect the student to ask something more specific. For example, you might say\n\n“If you’re unsure about something specific, then ask about that specific thing! For example, do we need to include the plot for Question 2? Or, Do we need to define the p-value when using it as evidence for answering the research question?”\n\nIf the student is having trouble knowing what to include in their answer, remind them to look back at what the question is looking for.\n\n\nCompletely Open-Ended Requests\nHere are examples of these types of requests:\n\n“I looked at the homework, but I do not know what to do. Can you give me a hint?”\n“I did Step 1, what do I do next?”\n\nSimilar to requests for “pre-grading”, you should not directly answer these requests. Instead, get the student to identify something specific to ask about. Maybe ask,\n\n“What specifically are you unsure about?”\n\nGetting the student to ask a more specific question may both (1) help them better understand the assignment, and (2) actually help them answer their own question!\nSince the individual exams typically reflect the content covered in the in-class activities, the most helpful thing to do is to refer students back to the pertinent activity.\n\n\nOther Requests that are Difficult to Respond To\nHere are examples of these types of requests:\n\n“I really need an ‘A’ in this class.”\n“I’m so close to a higher grade. Can you look over my past assignments and find a way to give me some points back?”\n\nIf students make these types of statements, you can respond with empathy, but should remind them that the implication of these types of requests is for the teaching team to do something unethical, such as grade things differently for different students.\nInstead you can ask the student about ways to improve their future performance in the course. For example,\n\n“I understand you really want to do well in this class. What else can you do in the future to better achieve that goal?”\n\nWhile we won’t change a score or grade for a student, we can help them to forescast their grade based on a number of scenarios, For example,\n\nHere are the scores you would need on the remaining coursework to earn an ‘A’ in the course?\n\nThe exception to changing scores or grades is if the student thinks their grade or scores were computed incorrectly, we will double-check!\n\n\n\n\n\n\nImportant\n\n\n\nIn general, you can respond to student questions about clarification or refer them to course resources, activities, etc. But, you should not help them complete their exams. You should also not re-grade or re-score anything. Instead, refer the student to the instructor who will make a decision about that."
+  },
+  {
+    "objectID": "responsibility-office-hours.html",
+    "href": "responsibility-office-hours.html",
+    "title": "Holding Office Hours",
+    "section": "",
+    "text": "We allow students from any section (not just the one you are TAing for) to come to any TA’s office hours. As such, when you are deciding the time of your set weekly office hours, it is important to make sure that your office hours do not overlap with any of the sections of EPsy 3264. (Find the times for the 3264 classes here.) We also try to make sure that there are many times available, so we try not to have your office hours overlap with other TAs’ or instructors’ office hours.\n\n\n\n\n\n\nImportant\n\n\n\nYou need to communicate the time and location of your office hours to the entire EPsy 3264 instructional team."
+  },
+  {
+    "objectID": "responsibility-grading.html",
+    "href": "responsibility-grading.html",
+    "title": "Grading Student Work",
+    "section": "",
+    "text": "The answer keys and rubrics for the assessments are located in the shared EPsy 3264 Google Drive.\nGrading needs to be done in a timely manner. This is important for providing feedback to students so they can incorporate it into their next assessment.\n\nIf the exam or quiz comes in on the first class day of the week, we ideally want you to have the assessments graded and ready to returned to students by the second class day of the week.\nIf the exam comes in on the second class day of the week, you need to have the assessments graded and returned to students by the next class period.\n\nIf this is not possible, please let the instructor know and also communicate when you will have the grading completed."
+  },
+  {
+    "objectID": "responsibility-meeting.html",
+    "href": "responsibility-meeting.html",
+    "title": "Meeting Regularly with the Instructor or Instructional Team",
+    "section": "",
+    "text": "A final TA responsibility is to attend a weekly meeting with the instructor or instructional team. The time and location of this meeting will be determined at the beginning of the semester based on everyone’s schedules. During this meeting, we discuss issues in the class, or in grading. We also talk through the grading of exams and quizzes, including the rubrics, to ensure that all the TAs are grading student work in a consistent manner."
   }
 ]

@@ -12,6 +12,10 @@ book:
       chapters:
         - preparation.qmd
         - responsibility-attending-class.qmd
+        - responsibility-student-questions.qmd
+        - responsibility-office-hours.qmd
+        - responsibility-grading.qmd
+        - responsibility-meeting.qmd
     - references.qmd
 
 bibliography: "assets/references.bib"
